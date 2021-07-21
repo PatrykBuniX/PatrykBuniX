@@ -27,4 +27,5 @@ Hi! I'm Patryk and I'm 19 years old web developer from Poland. I code mostly in 
 ## 🚀 Recent Project:
 
 Repo: [StylesPuller](https://github.com/PatrykBuniX/styles-puller)
+
 Live demo: [StylesPuller](https://styles-puller.vercel.app/)
