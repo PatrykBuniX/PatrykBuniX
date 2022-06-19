@@ -1,6 +1,6 @@
 ## 👋 About
 
-Hi! I'm Patryk and I'm 19 years old web developer from Poland. I code mostly in JavaScript on Frontend. I like learning new stuff, my goal is to become Fullstack.
+Hi, I'm Patryk, a frontend web developer from Poland 🇵🇱. I code mainly in ~~JavaScript~~ TypeScript and React. I love solving problems, building user interfaces and learning new things!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrykbunix/)](https://www.linkedin.com/in/patrykbunix/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrykbunix@gmail.com)](mailto:patrykbunix@gmail.com)
@@ -23,9 +23,3 @@ Hi! I'm Patryk and I'm 19 years old web developer from Poland. I code mostly in 
 [![Eslint](https://img.shields.io/badge/-Eslint-black?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/PatrykBuniX)
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/PatrykBuniX)
 [![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&logoColor=white)](https://github.com/PatrykBuniX)
-
-## 🚀 Recent Project:
-
-Repo: [StylesPuller](https://github.com/PatrykBuniX/styles-puller)
-
-Live demo: [StylesPuller](https://styles-puller.vercel.app/)
